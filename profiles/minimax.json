@@ -1,0 +1,9 @@
+{
+    "name": "carl",
+
+    "model": {
+        "api": "minimax",
+        "url": "https://api.minimax.io/v1",
+        "model": "MiniMax-M2.7"
+    }
+}

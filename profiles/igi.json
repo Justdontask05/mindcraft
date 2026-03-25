@@ -1,0 +1,8 @@
+{
+    "name": "Igi",
+
+    "model": {
+        "api": "nvidia",
+        "model": "igenius/colosseum_355b_instruct_16k"
+    }
+}

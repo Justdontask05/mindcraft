@@ -1,0 +1,8 @@
+{
+    "name": "Nemo",
+
+    "model": {
+        "api": "nvidia",
+        "model": "nvidia/nemotron-4-340b-instruct"
+    }
+}

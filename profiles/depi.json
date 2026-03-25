@@ -1,0 +1,8 @@
+{
+    "name": "Depi",
+
+    "model": {
+        "api": "nvidia",
+        "model": "deepseek-ai/deepseek-v3.2"
+    }
+}

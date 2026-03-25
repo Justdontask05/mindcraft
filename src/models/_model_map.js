@@ -62,6 +62,8 @@ export function selectAPI(profile) {
                 profile.api = 'deepseek';
             else if (profile.model.includes('qwen'))
                 profile.api = 'qwen';
+            else if (profile.model.toLowerCase().includes('minimax') || profile.model.toLowerCase().startsWith('m2.') || profile.model.toLowerCase().startsWith('m2-'))
+                profile.api = 'minimax';
         }
         if (!profile.api) {
             throw new Error('Unknown model:', profile.model);

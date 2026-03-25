@@ -1,0 +1,8 @@
+{
+    "name": "Kimi",
+
+    "model": {
+        "api": "nvidia",
+        "model": "moonshotai/kimi-k2.5"
+    }
+}

@@ -65,6 +65,7 @@ You can configure the agent's name, model, and prompts in their profile like `an
 | `deepseek` | `DEEPSEEK_API_KEY` | [docs](https://api-docs.deepseek.com/) |
 | `ollama` (local) | n/a | [docs](https://ollama.com/library) |
 | `qwen` | `QWEN_API_KEY` | [Intl.](https://www.alibabacloud.com/help/en/model-studio/developer-reference/use-qwen-by-calling-api)/[cn](https://help.aliyun.com/zh/model-studio/getting-started/models) |
+| `minimax` | `MINIMAX_API_KEY` | [docs](https://platform.minimax.io/docs/api-reference/api-overview) |
 | `mistral` | `MISTRAL_API_KEY` | [docs](https://docs.mistral.ai/getting-started/models/models_overview/) |
 | `replicate` | `REPLICATE_API_KEY` | [docs](https://replicate.com/collections/language-models) |
 | `groq` (not grok) | `GROQCLOUD_API_KEY` | [docs](https://console.groq.com/docs/models) |
@@ -73,6 +74,7 @@ You can configure the agent's name, model, and prompts in their profile like `an
 | `openrouter` | `OPENROUTER_API_KEY` | [docs](https://openrouter.ai/models) |
 | `glhf` | `GHLF_API_KEY` | [docs](https://glhf.chat/user-settings/api) |
 | `hyperbolic` | `HYPERBOLIC_API_KEY` | [docs](https://docs.hyperbolic.xyz/docs/getting-started) |
+| `nvidia` | `NVIDIA_API_KEY` | [docs](https://integrate.api.nvidia.com/v1) |
 | `vllm` | n/a | n/a |
 | `cerebras` | `CEREBRAS_API_KEY` | [docs](https://inference-docs.cerebras.ai/introduction) |
 | `mercury` | `MERCURY_API_KEY` | [docs](https://www.inceptionlabs.ai/) |

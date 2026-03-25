@@ -1,0 +1,8 @@
+{
+    "name": "Mixi",
+
+    "model": {
+        "api": "nvidia",
+        "model": "mistralai/mistral-large-3-675b-instruct-2512"
+    }
+}

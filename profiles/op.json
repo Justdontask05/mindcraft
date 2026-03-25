@@ -1,0 +1,8 @@
+{
+    "name": "Op",
+
+    "model": {
+        "api": "nvidia",
+        "model": "openai/gpt-oss-120b"
+    }
+}
